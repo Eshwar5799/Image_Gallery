@@ -1,23 +1,22 @@
-.container{
-    padding-top: 10px;
+.container {
+  padding-top: 10px;
 }
-h1{
-    
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:black;
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
 }
-.jumbotron{
-    color:gray;
+.jumbotron {
+  color: gray;
 }
-body{
-    color: aqua;
-    background: aqua;
+body {
+  color: #132743;
+  background: aqua;
 }
-h1{
-    color:  #ecf0f1;
+h1 {
+  color: #ecf0f1;
 }
-.jumbotron{
-    background: #ecf0f1;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.jumbotron {
+  background: #132743;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-
